@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-orquestra/commit/6a3d204bdfaa80e8bb278505a09d9d3855b192b1",
       "git:hexsha": "6a3d204bdfaa80e8bb278505a09d9d3855b192b1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-orquestra/commit/582187dc9e7961ab63b59c16c188d10ebe4ed424",
